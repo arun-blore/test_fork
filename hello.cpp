@@ -4,6 +4,6 @@ using std::cout;
 using std::endl;
 
 int main () {
-  cout << "Hello People\n";
+  cout << "Hello SF\n";
   return 0;
 }
